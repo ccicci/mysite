@@ -1,0 +1,2 @@
+# mysite
+practice django
